@@ -1,5 +1,5 @@
 1. Datatypes: Used in Student class for name, age, and score attributes.
-2. OOPs: Implemented through classes and objects (Student and StudentManager).
+2. OOPs: Implemented through classes and objects (Student and StudentManage).
 3. OOP Concepts:
    - Encapsulation: Private fields with public getter and setter methods in the Student class.
    - Polymorphism & Inheritance: Can be explored by adding more entities (like teachers or courses) in future enhancements.
@@ -15,4 +15,4 @@
     - List for storing students.
     - Set for searching unique student names.
     - Map for associating students with their grades.
-13. Exception Handling: Used in StudentManager to handle invalid user input during student creation.
+13. Exception Handling: Used in StudentManage to handle invalid user input during student creation.
