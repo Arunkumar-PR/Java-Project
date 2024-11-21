@@ -10,7 +10,7 @@
 8. String: Used to manipulate and display student data.
 9. Conditional Statements: Used in calculateGrade method to determine student grades.
 10. Looping Statements: Used to iterate over the student list when displaying or searching.
-11. Switch Statement: Used in the Main class for menu options.
+11. Switch Statement: Used in the Student_management class for menu options.
 12. Collection (List, Set, Map): 
     - List for storing students.
     - Set for searching unique student names.
